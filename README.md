@@ -9,4 +9,4 @@ where
 arg[0] : path of directory |
 arg[1] : pattern or word that is to be replaced |
 arg[2] : word to be replaced with |
-arg[4] : optional argument for path where text file will be created with the filenames where pattern of word was found and changed
+arg[3] : optional argument for path where text file will be created with the filenames where pattern of word was found and changed
