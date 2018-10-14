@@ -47,7 +47,7 @@ class search {
 			
 		}
 		
-		//Iterate of a path with folder and subfolders
+		//Iteration of a path with folder and subfolders
 		new File(path).eachFileRecurse  { file ->
 
 			//Check if filepath is file
